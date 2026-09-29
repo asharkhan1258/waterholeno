@@ -873,3 +873,6 @@ body{background:#fbfaf7;color:var(--ink);}
         height: 300px;
     }
 }
+
+/* Legal pages */
+.legal-content h2{margin-top:2rem;margin-bottom:.75rem}.legal-content p,.legal-content li{line-height:1.75}.legal-content{font-size:1.05rem}
